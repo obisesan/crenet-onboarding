@@ -1,0 +1,16 @@
+[
+  {
+    "name": "comics",
+    "path": "/comics",
+    "component": "/Users/firstlincoln/Documents/mayor/pages/comics.vue",
+    "chunkName": "pages/comics",
+    "_name": "_229777f9"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/firstlincoln/Documents/mayor/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_012e4d3e"
+  }
+]

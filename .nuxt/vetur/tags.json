@@ -1,0 +1,68 @@
+{
+  "About": {
+    "description": "Auto imported from components/About.vue"
+  },
+  "LazyAbout": {
+    "description": "Auto imported from components/About.vue"
+  },
+  "ComicsSection": {
+    "description": "Auto imported from components/ComicsSection.vue"
+  },
+  "LazyComicsSection": {
+    "description": "Auto imported from components/ComicsSection.vue"
+  },
+  "Footer": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "LazyFooter": {
+    "description": "Auto imported from components/Footer.vue"
+  },
+  "Header": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "LazyHeader": {
+    "description": "Auto imported from components/Header.vue"
+  },
+  "Hero": {
+    "description": "Auto imported from components/Hero.vue"
+  },
+  "LazyHero": {
+    "description": "Auto imported from components/Hero.vue"
+  },
+  "LatestVideos": {
+    "description": "Auto imported from components/LatestVideos.vue"
+  },
+  "LazyLatestVideos": {
+    "description": "Auto imported from components/LatestVideos.vue"
+  },
+  "Logo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "LazyLogo": {
+    "description": "Auto imported from components/Logo.vue"
+  },
+  "MarvelHq": {
+    "description": "Auto imported from components/MarvelHq.vue"
+  },
+  "LazyMarvelHq": {
+    "description": "Auto imported from components/MarvelHq.vue"
+  },
+  "Modal": {
+    "description": "Auto imported from components/Modal.vue"
+  },
+  "LazyModal": {
+    "description": "Auto imported from components/Modal.vue"
+  },
+  "News": {
+    "description": "Auto imported from components/News.vue"
+  },
+  "LazyNews": {
+    "description": "Auto imported from components/News.vue"
+  },
+  "FeaturedVideos": {
+    "description": "Auto imported from components/featuredVideos.vue"
+  },
+  "LazyFeaturedVideos": {
+    "description": "Auto imported from components/featuredVideos.vue"
+  }
+}
